@@ -49,6 +49,8 @@ public class Player {
         this.country = country;
     }
 
+    public Player() {}
+
     public Integer getId() {
         return id;
     }
